@@ -2,12 +2,12 @@
 # Aim
 Study of Numpy Library.
 # Theory
-1. Numpy(Numerical Python) is a powerful library used for numerical computations. It provides support for:multi-dimensional arrays,mathematical functions and linear algebra operations.The main object in NumPy is the ndarray (n-dimensional array).
+1. Numpy(Numerical Python) is a powerful library used for numerical computations. It provides support for: multi-dimensional arrays,mathematical functions and linear algebra operations.The main object in NumPy is the ndarray (n-dimensional array).
 2. Array creation-Creates a NumPy array from a Python list or tuple using np.array().
 3. Dimension of array-Returns number of dimensions (axes) using ndim.
 4. Shape of array-Returns size of each dimension using shape.
 5. Data type-Returns type of elements stored in array using dtype.
-6. Built-in array creation functions
+6. Built-in array creation functions-
    1. np.zeros()-Creates array filled with 0.
    2. np.ones()-Creates array filled with 1.
    3. np.eye()-Creates identity matrix (diagonal elements = 1).
