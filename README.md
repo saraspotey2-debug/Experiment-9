@@ -13,7 +13,7 @@ Study of Numpy Library.
    3. np.eye()-Creates identity matrix (diagonal elements = 1).
    4. np.arange()-Generates array with equal step interval.
    5. np.linspace()-Generates numbers evenly spaced between start and end.
-7. Arithmetic operations on arrays-NumPy performs element-wise operations.
+7. Arithmetic operations on arrays-Numpy performs element-wise operations.
    1. Multiply each element of b by 2.
    2. Add 5 to each element of a.
 8. Statistical functions-These functions are used for data analysis.
