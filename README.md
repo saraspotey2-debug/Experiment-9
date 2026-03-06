@@ -22,6 +22,8 @@ Study of Numpy Library.
    3. Minimum – np.min()-Gives smallest element.
    4. Maximum – np.max()-Gives largest element.
    5. Sum – np.sum()-Gives total of all elements.
+9. Features of NumPy:provides high-performance multidimensional array objects, supports vectorized operations, which makes mathematical calculations faster, contains many built-in mathematical and statistical functions, allows easy integration with other libraries used in data science and machine learning and uses less memory and executes operations faster compared to Python lists.
+10. Applications of NumPy-data analysis and data processing, machine learning and artificial intelligence,image and signal processing, scientific and engineering computations and mathematical modeling.
 # Conclusion
 Numpy is a fundamental library in python used for efficient numerical computation and array processing. It provides powerful tools to work with multi-dimensional arrays, mathematical operations, and statistical analysis in a fast and memory-efficient way.Through Numpy, complex calculations become simple because it supports:
 vectorized operations (no need for loops),built-in mathematical and statistical functions and easy handling of large datasets.It is widely used in data science, machine learning, signal processing, and scientific computing.
